@@ -66,7 +66,7 @@ import {
   Upload,
 } from '../src'
 
-setNpmCDNRegistry('//cdnjs.cloudflare.com/ajax/libs')
+setNpmCDNRegistry('//unpkg.com')
 
 GlobalRegistry.registerDesignerLocales({
   'zh-CN': {
